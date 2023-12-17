@@ -2,14 +2,14 @@
 
 This is the place where I open source stuff and break things :rofl:
 
-Here are some ideas to get you started:
+<img src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="gif" width="300px"> 
 
 - 🔭 &nbsp;I’m currently using Vue & Python as a Team Lead
 - 🌱 &nbsp;I’m currently learning AI
 - 👯 &nbsp;I’m looking to collaborate on OSS AI & Python based project
 - 💬 &nbsp;Ask me about Python & AI
 - 👨‍💻 &nbsp;Read more about me [here](https://www.jd-solanki.nuxt.space)
-- ⚡ Fun fact: I'm fan of Dracula Theme
+- ⚡ Fun fact: I'm fan of Dracula Theme & I'm lazy but productive.
 
 <br />
 
@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jd-solanki&layout=compact&theme=dracula)](https://github.com/jd-solanki/github-readme-stats)
 
 <br />
+
+### 🛠️ Tools & Technologies
+
+_I don't bother adding long list here. Follow me on [twitter](https://www.twitter.com/me_jd_solanki) to find out what I'm up to._
+
+<br />
+
 
 ### 🤝 Let's Connect
 
