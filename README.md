@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 ### 💻 Things I work on
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jd-solanki&layout=compact&theme=dracula)](https://github.com/jd-solanki/github-readme-stats)
 
+<br />
+
 ### 🤝 Let's Connect
 
 <p>
