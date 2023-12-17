@@ -8,7 +8,7 @@ This is the place where I open source stuff and break things :rofl:
 - 🌱 &nbsp;I’m currently learning AI
 - 👯 &nbsp;I’m looking to collaborate on OSS AI & Python based project
 - 💬 &nbsp;Ask me about Python & AI
-- 👨‍💻 &nbsp;Read more about me [here](https://www.jd-solanki.nuxt.space)
+- 👨‍💻 &nbsp;Read more about me [here](https://jd-solanki.nuxt.space)
 - ⚡ Fun fact: I'm fan of Dracula Theme & I'm lazy but productive.
 
 <br />
