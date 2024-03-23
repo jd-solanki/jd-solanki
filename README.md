@@ -31,9 +31,7 @@ _I don't bother adding long list here. Follow me on [twitter](https://www.twitte
 
 ### 🗺️ Roadmap
 
-- [ ] Creating [unjs](https://github.com/unjs/) like org for hosting small Vue Utils which are not candidates of [VueUse](https://vueuse.org/).
-- [ ] 🚧 Building [Vue Framework Guidelines](https://github.com/jd-solanki/vue-framework-guidelines).
-- [ ] Releasing [Anu](https://github.com/jd-solanki/anu) v1 with new base, [Radix Vue](https://radix-vue.com/).
+- [ ] Building something on top of [Langchain](https://python.langchain.com/docs/get_started/introduction)
 
 <br />
 
