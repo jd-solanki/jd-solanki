@@ -2,14 +2,17 @@
 
 This is the place where I open source stuff and break things :rofl:
 
-<img src="https://github.com/jd-solanki/jd-solanki.github.io/assets/47495003/74bd5e0b-47ec-4e94-aa98-03a14fa4fd71" alt="gif" width="500px"> 
+<img src="https://github.com/jd-solanki/jd-solanki.github.io/assets/47495003/74bd5e0b-47ec-4e94-aa98-03a14fa4fd71" alt="gif" width="500px">
 
-- 🔭 &nbsp;I’m currently using Vue & Python as a Team Lead
-- 🌱 &nbsp;I’m currently learning AI
-- 👯 &nbsp;I’m looking to collaborate on OSS AI & Python based project
-- 💬 &nbsp;Ask me about Python & AI
-- 👨‍💻 &nbsp;Read more about me [here](https://jd-solanki.github.io/)
-- ⚡ Fun fact: I'm fan of Dracula Theme & I'm lazy but productive.
+<br />
+
+- 🚀 &nbsp;Full-stack Developer & Entrepreneur
+- 📚 &nbsp;Sharing my journey, tips on building SaaS businesses, and growth insights on [twitter](https://twitter.com/me_jd_solanki)
+- 📖 &nbsp;Books, learnings, marketing, & more
+- 💬 &nbsp;Ask me about Business, Python & AI
+- ⚡ &nbsp;Fun fact: I'm fan of Dracula Theme & I'm lazy but productive.
+
+- 🚧 Curently building, [Varcas](https://varcas.com) - AI Productivity tools & workflows
 
 <br />
 
@@ -26,12 +29,6 @@ This is the place where I open source stuff and break things :rofl:
 ### 🛠️ Tools & Technologies
 
 _I don't bother adding long list here. Follow me on [twitter](https://www.twitter.com/me_jd_solanki) to find out what I'm up to._
-
-<br />
-
-### 🗺️ Roadmap
-
-- [ ] Building something on top of [Langchain](https://python.langchain.com/docs/get_started/introduction)
 
 <br />
 
