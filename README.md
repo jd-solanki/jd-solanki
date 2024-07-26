@@ -12,7 +12,7 @@ This is the place where I open source stuff and break things :rofl:
 - 💬 &nbsp;Ask me about Business, Python & AI
 - ⚡ &nbsp;Fun fact: I'm fan of Dracula Theme & I'm lazy but productive.
 
-- 🚧 Curently building, [Varcas](https://varcas.com) - AI Productivity tools & workflows
+- 🚧 Curently building, [WrapWithAI](https://wrapwithai.com) - AI Productivity tools & workflows
 
 <br />
 
